@@ -21,6 +21,9 @@ This **Waste Segregation Chatbot** helps users determine how to properly dispose
 git clone https://github.com/Santhosh944/Waste_Segregation_Chatbot.git  
 cd Waste_Segregation_Chatbot  
 
+🌐 Live Demo
+👉 [Launch Riya Now](https://waste-segregation-chatbot.onrender.com/)
+
 2️⃣ Install Dependencies  
 Ensure you have Python 3.8+ installed. Then, install the required packages:  
 pip install -r requirements.txt
@@ -57,6 +60,9 @@ Bot: "You're welcome! 😊"
 🔹 Improve Model Accuracy – Tune the ML model for better predictions.  
 🔹 Multilingual Support – Enable chatbot responses in multiple languages.  
 🔹 Mobile & Web App Deployment – Make it accessible via mobile/web apps.
+
+## 📷 Interface Preview
+![image](https://github.com/user-attachments/assets/c900ee0c-d2bc-4bd1-b708-0922371628dc)
 
 📜 License  
 This project is open-source under the MIT License.
